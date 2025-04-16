@@ -11,7 +11,7 @@ The model is a Double Deep Q-Network (DQN) with Prioritized Experience Replay. D
 
 Backtesting results were promising, as shown in below figure.
 
-![Backtesting results](.Backtesting_Results_Screenshot.png)
+![Backtesting results](Backtesting_Results_Screenshot.png)
 
 # Acknowledgements
 
